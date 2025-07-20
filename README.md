@@ -18,9 +18,10 @@ A full-stack Expense Tracker web application to help you manage and visualize yo
 🌐 **[Click here to try it out](https://your-vercel-link.vercel.app/)**  
 ---
 
+
 ## 📸 Screenshots
 
-| Dashboard | Add Expense | Mobile View |
+| Home Page | Dashboard | Create Budget | Add Expense | 
 |----------|-------------|-------------|
 | ![Dashboard](./public/screenshots/dashboard.png) | ![Add Expense](./public/screenshots/add-expense.png) | ![Mobile View](./public/screenshots/mobile.png) |
 
