@@ -1,7 +1,3 @@
-
-
-
-
 import { PiggyBank, ReceiptText, Wallet } from 'lucide-react';
 import React, { useEffect, useState } from 'react';
 
@@ -13,7 +9,7 @@ function CardsInfo({ budgetList }) {
     if (budgetList && budgetList.length > 0) {
       calculateCardInfo();
     }
-  }, [budgetList]); // ✅ Add dependency
+  }, [budgetList]); 
 
   const calculateCardInfo = () => {
     let totalBudget_ = 0;
