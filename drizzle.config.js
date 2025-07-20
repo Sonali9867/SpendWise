@@ -3,6 +3,6 @@ export default defineConfig({
   dialect: "postgresql",
   schema: "./utils/schema.jsx",
   dbCredentials: {
-    url: DATABASE_URL,
+    url:DATABASE_URL,
   }
 });
