@@ -16,8 +16,6 @@ A full-stack Expense Tracker web application to help you manage and visualize yo
 ## 🔗 Live Demo
 
 🌐 **[Click here to try it out](https://your-vercel-link.vercel.app/)**  
-_(Replace with your actual Vercel URL)_
-
 ---
 
 ## 📸 Screenshots
@@ -25,8 +23,6 @@ _(Replace with your actual Vercel URL)_
 | Dashboard | Add Expense | Mobile View |
 |----------|-------------|-------------|
 | ![Dashboard](./public/screenshots/dashboard.png) | ![Add Expense](./public/screenshots/add-expense.png) | ![Mobile View](./public/screenshots/mobile.png) |
-
-> 💡 Screenshots are stored in `/public/screenshots`. You can update them anytime.
 
 
 ## 🛠️ Tech Stack
