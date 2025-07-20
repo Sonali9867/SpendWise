@@ -7,13 +7,27 @@ A full-stack Expense Tracker web application to help you manage and visualize yo
 - 🔐 User authentication with Clerk
 - 📦 Store & manage personal expenses
 - 🏷️ Category tagging for each expense
-- 📊 Dynamic dashboard with analytics (coming soon)
-- 🌙 Dark mode support (optional)
+- 📊 Dynamic dashboard with analytics
 - 🔎 Filter expenses by date, category, and amount
-- 📤 Export data to CSV (optional feature)
 - ⚙️ Environment variables for secure config
 
 ---
+
+## 🔗 Live Demo
+
+🌐 **[Click here to try it out](https://your-vercel-link.vercel.app/)**  
+_(Replace with your actual Vercel URL)_
+
+---
+
+## 📸 Screenshots
+
+| Dashboard | Add Expense | Mobile View |
+|----------|-------------|-------------|
+| ![Dashboard](./public/screenshots/dashboard.png) | ![Add Expense](./public/screenshots/add-expense.png) | ![Mobile View](./public/screenshots/mobile.png) |
+
+> 💡 Screenshots are stored in `/public/screenshots`. You can update them anytime.
+
 
 ## 🛠️ Tech Stack
 
@@ -27,4 +41,17 @@ A full-stack Expense Tracker web application to help you manage and visualize yo
 | **Vercel**       | Deployment and hosting                     |
 
 ---
+
+
+## 🧰 Getting Started
+
+To run this project locally, follow these steps:
+
+### 1. **Clone the Repository**
+
+```bash
+git clone https://github.com/your-username/spendwise.git
+cd spendwise
+npm install
+npm run dev
 
