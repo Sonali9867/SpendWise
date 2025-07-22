@@ -18,16 +18,17 @@ A full-stack Expense Tracker web application to help you manage and visualize yo
 🌐 **[Click here to try it out](https://spend-wise-weld.vercel.app/)**  
 ---
 
-
 ## 📸 Screenshots
 
-| Page | Preview |
-|------|---------|
-| **Home Page** | ![Home](./public/screenshots/scr-1.png) |
-| **Dashboard** | ![Dashboard](./public/screenshots/scr-2.png) |
-| **Create Budget** | ![Create Budget](./public/screenshots/scr-3.png) |
-| **Add Expense** | ![Add Expense](./public/screenshots/scr-4.png) |
+| Home Page | Dashboard |
+|-----------|-----------|
+| ![Home](./public/screenshots/scr-1.png) | ![Dashboard](./public/screenshots/scr-2.png) |
 
+| Create Budget | Add Expense |
+|----------------|-------------|
+| ![Create Budget](./public/screenshots/scr-3.png) | ![Add Expense](./public/screenshots/scr-4.png) |
+
+---
 
 ## 🛠️ Tech Stack
 
