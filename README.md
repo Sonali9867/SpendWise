@@ -15,7 +15,7 @@ A full-stack Expense Tracker web application to help you manage and visualize yo
 
 ## 🔗 Live Demo
 
-🌐 **[Click here to try it out](https://your-vercel-link.vercel.app/)**  
+🌐 **[Click here to try it out](https://spend-wise-weld.vercel.app/)**  
 ---
 
 
