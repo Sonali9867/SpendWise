@@ -21,9 +21,12 @@ A full-stack Expense Tracker web application to help you manage and visualize yo
 
 ## 📸 Screenshots
 
-| Home Page | Dashboard | Create Budget | Add Expense |
-|-----------|-----------|----------------|-------------|
-| ![Home](./public/screenshots/scr-1.png) | ![Dashboard](./public/screenshots/scr-2.png) | ![Create Budget](./public/screenshots/scr-3.png) | ![Add Expense](./public/screenshots/scr-4.png) |
+| Page | Preview |
+|------|---------|
+| **Home Page** | ![Home](./public/screenshots/scr-1.png) |
+| **Dashboard** | ![Dashboard](./public/screenshots/scr-2.png) |
+| **Create Budget** | ![Create Budget](./public/screenshots/scr-3.png) |
+| **Add Expense** | ![Add Expense](./public/screenshots/scr-4.png) |
 
 
 ## 🛠️ Tech Stack
